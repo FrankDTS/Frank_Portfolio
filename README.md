@@ -6,13 +6,13 @@
   * Made Poisson and Logistic regression models to predict the game in a different aspect.
   * Automize the Excel process to produce the report more efficiently.
 
-# [Project 2: People_Salary_Predict](https://github.com/FrankDTS/Predict_Perple_Salary)
+# [Project 2: People Salary Predict](https://github.com/FrankDTS/Predict_Perple_Salary)
   * Built several Machine Learning models (Logistic Regression, RandomFordst, and XGboost) to predict whether a person makes over 50K a year
   * Several Feature Engineering methods to fill with columns that have NA values.
   * 8th in the Kaggle competion
 
 
-# [Project 3: Loan_Denied_Project](https://github.com/FrankDTS/Loan_Denied_Project)
+# [Project 3: Loan Denied Project](https://github.com/FrankDTS/Loan_Denied_Project)
   1. Built several Neural Network and Machine Learning models (ANN, RandomFordst, and XGboost) to predict whether the bank should deny the loan application
   2. Data processing to transform datas and several Feature Engineering methods to fill with columns that have NA values.
   3. 3th in the kaggle competition
