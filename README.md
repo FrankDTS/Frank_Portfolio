@@ -6,7 +6,7 @@
   * Made Poisson model and Logistic regression to predict the game in a different aspect.
   * Automize the Excel process to produce the report more efficiently.
 
-# [Project 2: Perple_Salary_Predict](https://github.com/FrankDTS/Predict_Perple_Salary)
+# [Project 2: People_Salary_Predict](https://github.com/FrankDTS/Predict_Perple_Salary)
   * Built several Machine Learning (Logistic Regression, RandomFordst, and XGboost) to predict whether a person makes over 50K a year
   * Several Feature Engineering methods to fill with columns that have NA values.
   * 8th in the Kaggle competion
