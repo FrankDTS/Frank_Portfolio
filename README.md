@@ -1,5 +1,5 @@
 
-# [Project 1: People Salary Predict](https://github.com/FrankDTS/Predict_Perple_Salary)
+# [Project 1: People Salary Predict Project](https://github.com/FrankDTS/Predict_Perple_Salary)
   * Built several Machine Learning models (Logistic Regression, RandomFordst, and XGboost) to predict whether a person makes over 50K a year
   * Several Feature Engineering methods to fill with columns that have NA values.
   * 8th in the Kaggle competion
@@ -18,6 +18,6 @@
   * Made Poisson and Logistic regression models to predict the game in a different aspect.
   * Automize the Excel process to produce the report more efficiently.
 
-# [Project 4: Image Recognition](https://github.com/FrankDTS/Image-Recognition)
+# [Project 4: Image Recognition Project](https://github.com/FrankDTS/Image-Recognition)
   * Built several CNN models to predict Image-Recognition.
   * Data processing to transform training and testing dataset.
