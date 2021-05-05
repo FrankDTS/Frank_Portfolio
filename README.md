@@ -1,5 +1,7 @@
 # Frank_Portfolio
 
+<br>
+<br>
 
 # [Project 1: People Salary Predict](https://github.com/FrankDTS/Predict_Perple_Salary)
   * Built several Machine Learning models (Logistic Regression, RandomFordst, and XGboost) to predict whether a person makes over 50K a year
