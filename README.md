@@ -19,3 +19,7 @@
   * Built a data cleaning process and give the company the real important results.
   * Made Poisson and Logistic regression models to predict the game in a different aspect.
   * Automize the Excel process to produce the report more efficiently.
+
+# [Project 4: Image Recognition](https://github.com/FrankDTS/Image-Recognition)
+  * Built several CNN models to predict Image-Recognition.
+  * Data processing to transform training and testing dataset.
