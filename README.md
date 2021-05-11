@@ -19,7 +19,7 @@
   * Automize the Excel process to produce the report more efficiently.
 
 
-# [Project 4: (1dCNN, 1dRNN) + NLP Project](https://github.com/FrankDTS/CNN-RNN-NLP/blob/main/CNN%2CRNN%2BNLP.ipynb)
+# [Project 4: (1dCNN, 1dRNN) + NLP Project](https://github.com/FrankDTS/CNN-RNN-NLP)
   * Built several Machine Learning models (NLP) and Neural Network models (CNN, RNN) to predict types of meals do people eat base on foods name
   * Built Feature Engineering methods to give data new feature.
   
