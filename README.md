@@ -9,6 +9,16 @@
   * Built several Neural Network and Machine Learning models (ANN, RandomFordst, and XGboost) to predict whether the bank should deny the loan application
   * Data processing to transform datas and several Feature Engineering methods to fill with columns that have NA values.
   * 3th in the kaggle competition
+  * 
+
+# [Project 4: (1dCNN, 1dRNN) + NLP Project](https://github.com/FrankDTS/CNN-RNN-NLP)
+  * Built several Machine Learning models (NLP) and Neural Network models (CNN, RNN) to predict types of meals do people eat base on foods name
+  * Built Feature Engineering methods to give data new feature.
+  
+
+# [Project 5: Image Recognition Project](https://github.com/FrankDTS/Image-Recognition)
+  * Built several CNN models to predict Image-Recognition.
+  * Data processing to transform training and testing dataset.
 
 
 # [Project 3: ESPN FootballData Analyze Project](https://github.com/FrankDTS/ESPN-Football-Analyze)
@@ -19,13 +29,5 @@
   * Automize the Excel process to produce the report more efficiently.
 
 
-# [Project 4: (1dCNN, 1dRNN) + NLP Project](https://github.com/FrankDTS/CNN-RNN-NLP)
-  * Built several Machine Learning models (NLP) and Neural Network models (CNN, RNN) to predict types of meals do people eat base on foods name
-  * Built Feature Engineering methods to give data new feature.
-  
-
-# [Project 5: Image Recognition Project](https://github.com/FrankDTS/Image-Recognition)
-  * Built several CNN models to predict Image-Recognition.
-  * Data processing to transform training and testing dataset.
 
 
