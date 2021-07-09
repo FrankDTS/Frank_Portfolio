@@ -21,9 +21,14 @@
   * Data processing to transform training and testing dataset.
 
 
+# [Project 5: Big Data Project (NLP and Recommendation System for beer)](https://github.com/FrankDTS/Big-data-Project)
+
+  * Big data (2G) cleaning and data wrangling 
+  * Built Recommendation System by built NLP
+  * As a team leader, successfully assigned each member work content
 
 
-# [Project 5: ESPN FootballData Analyze Project](https://github.com/FrankDTS/ESPN-Football-Analyze)
+# [Project 6: ESPN FootballData Analyze Project](https://github.com/FrankDTS/ESPN-Football-Analyze)
 
   * Create Web Scraping methods to grab ESPN Football data, Found the API hidden pattern, and automize the grab process.
   * Built a data cleaning process and give the company the real important results.
