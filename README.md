@@ -11,17 +11,19 @@
   * 3th in the kaggle competition
   
 
-# [Project 4: (1dCNN, 1dRNN) + NLP Project](https://github.com/FrankDTS/CNN-RNN-NLP)
+# [Project 3: (1dCNN, 1dRNN) + NLP Project](https://github.com/FrankDTS/CNN-RNN-NLP)
   * Built several Machine Learning models (NLP) and Neural Network models (CNN, RNN) to predict types of meals do people eat base on foods name
   * Built Feature Engineering methods to give data new feature.
   
 
-# [Project 5: Image Recognition Project](https://github.com/FrankDTS/Image-Recognition)
+# [Project 4: Image Recognition Project](https://github.com/FrankDTS/Image-Recognition)
   * Built several CNN models to predict Image-Recognition.
   * Data processing to transform training and testing dataset.
 
 
-# [Project 3: ESPN FootballData Analyze Project](https://github.com/FrankDTS/ESPN-Football-Analyze)
+
+
+# [Project 5: ESPN FootballData Analyze Project](https://github.com/FrankDTS/ESPN-Football-Analyze)
 
   * Create Web Scraping methods to grab ESPN Football data, Found the API hidden pattern, and automize the grab process.
   * Built a data cleaning process and give the company the real important results.
